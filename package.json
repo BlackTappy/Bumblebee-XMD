@@ -1,5 +1,5 @@
 {
-  "name": "Bwmxmd",
+  "name": "Bumblebee-XMD",
   "version": "2.1.0",
   "description": "Advanced WhatsApp bot using Baileys",
   "main": "index.js",
@@ -19,12 +19,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "bmwxmd",
-    "quantum",
+    "bumblebeexmd",
+    "xtech",
     "whatsapp-bot",
-    "Ibrahim-Adams"
+    "Black-Tappy"
   ],
-  "author": "Ibrahim Adams",
+  "author": "Black-Tappy",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
