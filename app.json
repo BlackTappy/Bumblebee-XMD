@@ -102,9 +102,9 @@
     "NUMERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
+    "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254' and ensure its the valid Whatsapp number of the user to prevent the issue of command not working🚫)",
     "required":true,
-    "value": "254759000340"
+    "value": ""
   },
     "WARN_COUNT":
   {
@@ -120,7 +120,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 online. 2 typing a message. 3 recording . Or leave the field blank to indicate your real state.",
-    "value":"2",
+    "value":"",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
