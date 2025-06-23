@@ -1,4 +1,4 @@
-const { adams } = require("../framework/zokou");
+const { zokou } = require("../framework/zokou");
 var mumaker = require("mumaker");
 
 const logoCommands = [
